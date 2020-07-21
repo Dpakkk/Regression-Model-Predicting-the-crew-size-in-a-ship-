@@ -33,4 +33,4 @@ The question of this analysis is described below:
 
 Plot regularization parameter value vs Pearson correlation for the test and training sets, and see whether your model has a bias problem or variance problem.
 
-Remarks: This is an example of a very straightforward problem. The dataset is clean and small (160 rows and 9 columns), and the instructions are very clear. So all what is needed is to follow the instructions and generate the code.
+Remarks: This is an example of a very straightforward problem. The dataset is clean and small (160 rows and 9 columns), and the instructions are very clear. So all what is needed is to follow the instructions and perform the analysis.
