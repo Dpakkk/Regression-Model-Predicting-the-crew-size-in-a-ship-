@@ -35,3 +35,4 @@ Plot regularization parameter value vs Pearson correlation for the test and trai
 
 Remarks: This is an example of a very straightforward problem. The dataset is clean and small (160 rows and 9 columns), and the instructions are very clear. So all what is needed is to follow the instructions and perform the analysis.
 You can see the notebook file in Static Website on: 
+https://dpakkk.github.io/Regression-Model-Predicting-the-crew-size-in-a-ship-/ 
